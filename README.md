@@ -23,3 +23,4 @@ Y por último lugar, ejecutamos el siguiente comando
 
 Ahora ya podemos disfrutar de esta expriencia mediante ultra vnc introduciendo los datos de la captura anterior
 
+![image](https://user-images.githubusercontent.com/91564342/168424907-8acf6fb6-8d7b-4a98-b510-03f3e2593369.png)
