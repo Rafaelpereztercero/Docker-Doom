@@ -21,6 +21,6 @@ Y por último lugar, ejecutamos el siguiente comando
 
 ![image](https://user-images.githubusercontent.com/91564342/168424750-5f89d233-e181-4664-88db-095404e91781.png)
 
-Ahora ya podemos disfrutar de esta expriencia mediante ultra vnc introduciendo los datos de la captura anterior
+Ahora ya podemos disfrutar de esta expriencia mediante ultra vnc introduciendo el puerto de la captura anterior y la password es 1234
 
 ![image](https://user-images.githubusercontent.com/91564342/168424907-8acf6fb6-8d7b-4a98-b510-03f3e2593369.png)
